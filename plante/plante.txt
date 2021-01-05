@@ -1,0 +1,3 @@
+pomme p1 fruit Été 17 6 2021 30
+fraise f1 fruit Hiver 31 12 2020 100 
+ 
