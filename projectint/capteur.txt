@@ -1,0 +1,4 @@
+200A aaa Temperature N/A 0 45
+200B aaa Temperature N/A 0 45
+200F pp Humidite N/A 10 90
+200G pp Temperature N/A 0 45
